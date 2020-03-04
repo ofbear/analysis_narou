@@ -1,0 +1,11 @@
+{
+    "cotoha" : {
+        "clientId" : "AAAA",
+        "clientSecret" : "AAAA"
+    },
+    "narou" : {
+        "out": "json",
+        "lim": "100",
+        "order": "dailypoint"
+    }
+}
